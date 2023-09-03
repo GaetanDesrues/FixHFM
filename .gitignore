@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+venv/
+.idea/
+*.egg-info
+__pycache__
+dist/
+build/
+
 # C extensions
 *.so
 
